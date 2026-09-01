@@ -1,0 +1,14 @@
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Open_Close\Open_Close\bin\Debug\net8.0\Open_Close.exe
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Open_Close\Open_Close\bin\Debug\net8.0\Open_Close.deps.json
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Open_Close\Open_Close\bin\Debug\net8.0\Open_Close.runtimeconfig.json
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Open_Close\Open_Close\bin\Debug\net8.0\Open_Close.dll
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Open_Close\Open_Close\bin\Debug\net8.0\Open_Close.pdb
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Open_Close\Open_Close\obj\Debug\net8.0\Open_Close.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Open_Close\Open_Close\obj\Debug\net8.0\Open_Close.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Open_Close\Open_Close\obj\Debug\net8.0\Open_Close.AssemblyInfo.cs
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Open_Close\Open_Close\obj\Debug\net8.0\Open_Close.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Open_Close\Open_Close\obj\Debug\net8.0\Open_Close.dll
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Open_Close\Open_Close\obj\Debug\net8.0\refint\Open_Close.dll
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Open_Close\Open_Close\obj\Debug\net8.0\Open_Close.pdb
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Open_Close\Open_Close\obj\Debug\net8.0\Open_Close.genruntimeconfig.cache
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Open_Close\Open_Close\obj\Debug\net8.0\ref\Open_Close.dll
