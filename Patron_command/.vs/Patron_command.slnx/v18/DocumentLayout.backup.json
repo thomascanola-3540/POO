@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Patron_command\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{609C527D-EDB5-4B0F-985D-1982EDA52937}|Patron_command\\Patron_command.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\patron_command\\patron_command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609C527D-EDB5-4B0F-985D-1982EDA52937}|Patron_command\\Patron_command.csproj|solutionrelative:patron_command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609C527D-EDB5-4B0F-985D-1982EDA52937}|Patron_command\\Patron_command.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\patron_command\\patron_command\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609C527D-EDB5-4B0F-985D-1982EDA52937}|Patron_command\\Patron_command.csproj|solutionrelative:patron_command\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609C527D-EDB5-4B0F-985D-1982EDA52937}|Patron_command\\Patron_command.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\patron_command\\patron_command\\apagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609C527D-EDB5-4B0F-985D-1982EDA52937}|Patron_command\\Patron_command.csproj|solutionrelative:patron_command\\apagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609C527D-EDB5-4B0F-985D-1982EDA52937}|Patron_command\\Patron_command.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\patron_command\\patron_command\\encender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609C527D-EDB5-4B0F-985D-1982EDA52937}|Patron_command\\Patron_command.csproj|solutionrelative:patron_command\\encender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609C527D-EDB5-4B0F-985D-1982EDA52937}|Patron_command\\Patron_command.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\patron_command\\patron_command\\luz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609C527D-EDB5-4B0F-985D-1982EDA52937}|Patron_command\\Patron_command.csproj|solutionrelative:patron_command\\luz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{609C527D-EDB5-4B0F-985D-1982EDA52937}|Patron_command\\Patron_command.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\patron_command\\patron_command\\icomando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{609C527D-EDB5-4B0F-985D-1982EDA52937}|Patron_command\\Patron_command.csproj|solutionrelative:patron_command\\icomando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Control.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Patron_command\\Patron_command\\Control.cs",
+              "RelativeDocumentMoniker": "Patron_command\\Control.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Patron_command\\Patron_command\\Control.cs",
+              "RelativeToolTip": "Patron_command\\Control.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T14:29:56.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Apagar.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Patron_command\\Patron_command\\Apagar.cs",
+              "RelativeDocumentMoniker": "Patron_command\\Apagar.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Patron_command\\Patron_command\\Apagar.cs",
+              "RelativeToolTip": "Patron_command\\Apagar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T14:29:21.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Encender.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Patron_command\\Patron_command\\Encender.cs",
+              "RelativeDocumentMoniker": "Patron_command\\Encender.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Patron_command\\Patron_command\\Encender.cs",
+              "RelativeToolTip": "Patron_command\\Encender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T14:28:40.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Luz.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Patron_command\\Patron_command\\Luz.cs",
+              "RelativeDocumentMoniker": "Patron_command\\Luz.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Patron_command\\Patron_command\\Luz.cs",
+              "RelativeToolTip": "Patron_command\\Luz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T14:28:02.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IComando.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Patron_command\\Patron_command\\IComando.cs",
+              "RelativeDocumentMoniker": "Patron_command\\IComando.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Patron_command\\Patron_command\\IComando.cs",
+              "RelativeToolTip": "Patron_command\\IComando.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T14:26:59.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Patron_command\\Patron_command\\Program.cs",
+              "RelativeDocumentMoniker": "Patron_command\\Program.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Patron_command\\Patron_command\\Program.cs",
+              "RelativeToolTip": "Patron_command\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T14:24:53.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
