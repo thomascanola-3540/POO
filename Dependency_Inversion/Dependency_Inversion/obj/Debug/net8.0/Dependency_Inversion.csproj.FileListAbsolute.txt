@@ -1,0 +1,15 @@
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\bin\Debug\net8.0\Dependency_Inversion.exe
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\bin\Debug\net8.0\Dependency_Inversion.deps.json
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\bin\Debug\net8.0\Dependency_Inversion.runtimeconfig.json
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\bin\Debug\net8.0\Dependency_Inversion.dll
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\bin\Debug\net8.0\Dependency_Inversion.pdb
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.AssemblyInfo.cs
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.sourcelink.json
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.dll
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\obj\Debug\net8.0\refint\Dependency_Inversion.dll
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.pdb
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.genruntimeconfig.cache
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Dependency_Inversion\Dependency_Inversion\obj\Debug\net8.0\ref\Dependency_Inversion.dll

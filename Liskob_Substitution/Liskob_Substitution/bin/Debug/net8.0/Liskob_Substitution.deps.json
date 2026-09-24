@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Liskob_Substitution/1.0.0": {
+        "runtime": {
+          "Liskob_Substitution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Liskob_Substitution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

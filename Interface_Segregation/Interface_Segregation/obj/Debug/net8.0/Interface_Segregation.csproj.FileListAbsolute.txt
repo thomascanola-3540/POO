@@ -1,0 +1,15 @@
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\bin\Debug\net8.0\Interface_Segregation.exe
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\bin\Debug\net8.0\Interface_Segregation.deps.json
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\bin\Debug\net8.0\Interface_Segregation.runtimeconfig.json
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\bin\Debug\net8.0\Interface_Segregation.dll
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\bin\Debug\net8.0\Interface_Segregation.pdb
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\obj\Debug\net8.0\Interface_Segregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\obj\Debug\net8.0\Interface_Segregation.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\obj\Debug\net8.0\Interface_Segregation.AssemblyInfo.cs
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\obj\Debug\net8.0\Interface_Segregation.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\obj\Debug\net8.0\Interface_Segregation.sourcelink.json
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\obj\Debug\net8.0\Interface_Segregation.dll
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\obj\Debug\net8.0\refint\Interface_Segregation.dll
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\obj\Debug\net8.0\Interface_Segregation.pdb
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\obj\Debug\net8.0\Interface_Segregation.genruntimeconfig.cache
+C:\Users\isabe\OneDrive - UCO\Escritorio\proyectos-poo\Interface_Segregation\Interface_Segregation\obj\Debug\net8.0\ref\Interface_Segregation.dll
