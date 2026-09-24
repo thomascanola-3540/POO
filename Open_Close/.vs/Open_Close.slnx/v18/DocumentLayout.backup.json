@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\",
+  "WorkspaceRootPath": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\open_close\\open_close\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\open_close\\open_close\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\open_close\\open_close\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\open_close\\open_close\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\open_close\\open_close\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\open_close\\open_close\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\open_close\\open_close\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\open_close\\open_close\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\open_close\\open_close\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\open_close\\open_close\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\open_close\\open_close\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\open_close\\open_close\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\open_close\\open_close\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\open_close\\open_close\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\open_close\\open_close\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9FA2806-A16A-459F-891A-7BD982065072}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\open_close\\open_close\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F9EF62-E2FE-1F15-A934-97AB27A96831}|Open_Close\\Open_Close.csproj|solutionrelative:open_close\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +42,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AreaCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\AreaCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\AreaCalculator.cs",
               "RelativeDocumentMoniker": "Open_Close\\AreaCalculator.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\AreaCalculator.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\AreaCalculator.cs",
               "RelativeToolTip": "Open_Close\\AreaCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-31T22:21:21.147Z",
               "EditorCaption": ""
@@ -61,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Figura.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\Figura.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\Figura.cs",
               "RelativeDocumentMoniker": "Open_Close\\Figura.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\Figura.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\Figura.cs",
               "RelativeToolTip": "Open_Close\\Figura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -74,48 +86,35 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Cuadrado.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\Cuadrado.cs",
               "RelativeDocumentMoniker": "Open_Close\\Cuadrado.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\Cuadrado.cs",
               "RelativeToolTip": "Open_Close\\Cuadrado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-31T22:15:42.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Rectangulo.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\Rectangulo.cs",
               "RelativeDocumentMoniker": "Open_Close\\Rectangulo.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\Rectangulo.cs",
               "RelativeToolTip": "Open_Close\\Rectangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-31T22:15:46.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Triangulo.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\Triangulo.cs",
-              "RelativeDocumentMoniker": "Open_Close\\Triangulo.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\Triangulo.cs",
-              "RelativeToolTip": "Open_Close\\Triangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T22:15:54.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Circulo.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\Circulo.cs",
               "RelativeDocumentMoniker": "Open_Close\\Circulo.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\Circulo.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\Circulo.cs",
               "RelativeToolTip": "Open_Close\\Circulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,13 +123,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Open_Close\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\Triangulo.cs",
+              "RelativeToolTip": "Open_Close\\Triangulo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T22:15:54.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Trapecio.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\Trapecio.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\Trapecio.cs",
               "RelativeDocumentMoniker": "Open_Close\\Trapecio.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\Trapecio.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\Trapecio.cs",
               "RelativeToolTip": "Open_Close\\Trapecio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-31T22:15:58.236Z",
               "EditorCaption": ""
@@ -139,11 +151,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\Program.cs",
               "RelativeDocumentMoniker": "Open_Close\\Program.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Open_Close\\Open_Close\\Program.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Open_Close\\Open_Close\\Program.cs",
               "RelativeToolTip": "Open_Close\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-31T22:13:33.193Z",
               "EditorCaption": ""

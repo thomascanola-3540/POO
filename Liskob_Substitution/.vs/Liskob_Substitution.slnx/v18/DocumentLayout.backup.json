@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Liskob_Substitution\\",
+  "WorkspaceRootPath": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Liskob_Substitution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\liskob_substitution\\liskob_substitution\\pato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|solutionrelative:liskob_substitution\\pato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\liskob_substitution\\liskob_substitution\\aguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\liskob_substitution\\liskob_substitution\\aguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|solutionrelative:liskob_substitution\\aguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\liskob_substitution\\liskob_substitution\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\liskob_substitution\\liskob_substitution\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|solutionrelative:liskob_substitution\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\liskob_substitution\\liskob_substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\liskob_substitution\\liskob_substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|solutionrelative:liskob_substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\liskob_substitution\\liskob_substitution\\pato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|solutionrelative:liskob_substitution\\pato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Pato.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Liskob_Substitution\\Liskob_Substitution\\Pato.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Liskob_Substitution\\Liskob_Substitution\\Pato.cs",
               "RelativeDocumentMoniker": "Liskob_Substitution\\Pato.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Liskob_Substitution\\Liskob_Substitution\\Pato.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Liskob_Substitution\\Liskob_Substitution\\Pato.cs",
               "RelativeToolTip": "Liskob_Substitution\\Pato.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-01T00:53:12.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Aguila.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Liskob_Substitution\\Liskob_Substitution\\Aguila.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Liskob_Substitution\\Liskob_Substitution\\Aguila.cs",
               "RelativeDocumentMoniker": "Liskob_Substitution\\Aguila.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Liskob_Substitution\\Liskob_Substitution\\Aguila.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Liskob_Substitution\\Liskob_Substitution\\Aguila.cs",
               "RelativeToolTip": "Liskob_Substitution\\Aguila.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-01T00:51:23.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Ave.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Liskob_Substitution\\Liskob_Substitution\\Ave.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Liskob_Substitution\\Liskob_Substitution\\Ave.cs",
               "RelativeDocumentMoniker": "Liskob_Substitution\\Ave.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Liskob_Substitution\\Liskob_Substitution\\Ave.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Liskob_Substitution\\Liskob_Substitution\\Ave.cs",
               "RelativeToolTip": "Liskob_Substitution\\Ave.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-01T00:50:23.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Liskob_Substitution\\Liskob_Substitution\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Liskob_Substitution\\Liskob_Substitution\\Program.cs",
               "RelativeDocumentMoniker": "Liskob_Substitution\\Program.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Liskob_Substitution\\Liskob_Substitution\\Program.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Liskob_Substitution\\Liskob_Substitution\\Program.cs",
               "RelativeToolTip": "Liskob_Substitution\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-01T00:50:16.223Z",
               "EditorCaption": ""

@@ -11,5 +11,6 @@ namespace Liskob_Substitution
         public string Nombre { get; set; }
 
         public virtual string Moverse() => $"{Nombre} se mueve caminando";
+        public virtual string Saludar() { return "Hola"; }
     }
 }

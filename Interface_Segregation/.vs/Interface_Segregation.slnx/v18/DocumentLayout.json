@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Interface_Segregation\\",
+  "WorkspaceRootPath": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Interface_Segregation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\interface_segregation\\interface_segregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\interface_segregation\\interface_segregation\\desarrolladorfullstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\desarrolladorfullstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\interface_segregation\\interface_segregation\\iprogramador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\iprogramador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\interface_segregation\\interface_segregation\\idisenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\idisenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\interface_segregation\\interface_segregation\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\interface_segregation\\interface_segregation\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|c:\\users\\isabe\\onedrive - uco\\escritorio\\proyectos-poo\\interface_segregation\\interface_segregation\\desarrolladorfullstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\desarrolladorfullstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\interface_segregation\\interface_segregation\\iprogramador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\iprogramador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\interface_segregation\\interface_segregation\\idisenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\idisenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\interface_segregation\\interface_segregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B34740-DF27-15BB-359B-4AA8A8ED35A3}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +30,80 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "DesarrolladorFullStack.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Interface_Segregation\\Interface_Segregation\\DesarrolladorFullStack.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Interface_Segregation\\Interface_Segregation\\DesarrolladorFullStack.cs",
               "RelativeDocumentMoniker": "Interface_Segregation\\DesarrolladorFullStack.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Interface_Segregation\\Interface_Segregation\\DesarrolladorFullStack.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Interface_Segregation\\Interface_Segregation\\DesarrolladorFullStack.cs",
               "RelativeToolTip": "Interface_Segregation\\DesarrolladorFullStack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-01T00:59:16.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Desarrollador.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Interface_Segregation\\Interface_Segregation\\Desarrollador.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Interface_Segregation\\Interface_Segregation\\Desarrollador.cs",
               "RelativeDocumentMoniker": "Interface_Segregation\\Desarrollador.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Interface_Segregation\\Interface_Segregation\\Desarrollador.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Interface_Segregation\\Interface_Segregation\\Desarrollador.cs",
               "RelativeToolTip": "Interface_Segregation\\Desarrollador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T00:59:11.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T00:59:11.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDisenador.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Interface_Segregation\\Interface_Segregation\\IDisenador.cs",
+              "RelativeDocumentMoniker": "Interface_Segregation\\IDisenador.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Interface_Segregation\\Interface_Segregation\\IDisenador.cs",
+              "RelativeToolTip": "Interface_Segregation\\IDisenador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T00:59:07.643Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IDisenador.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Interface_Segregation\\Interface_Segregation\\IDisenador.cs",
-              "RelativeDocumentMoniker": "Interface_Segregation\\IDisenador.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Interface_Segregation\\Interface_Segregation\\IDisenador.cs",
-              "RelativeToolTip": "Interface_Segregation\\IDisenador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T00:59:07.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "IProgramador.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Interface_Segregation\\Interface_Segregation\\IProgramador.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Interface_Segregation\\Interface_Segregation\\IProgramador.cs",
               "RelativeDocumentMoniker": "Interface_Segregation\\IProgramador.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Interface_Segregation\\Interface_Segregation\\IProgramador.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Interface_Segregation\\Interface_Segregation\\IProgramador.cs",
               "RelativeToolTip": "Interface_Segregation\\IProgramador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T00:58:45.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T00:58:45.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Interface_Segregation\\Interface_Segregation\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Interface_Segregation\\Interface_Segregation\\Program.cs",
               "RelativeDocumentMoniker": "Interface_Segregation\\Program.cs",
-              "ToolTip": "C:\\Users\\isabe\\OneDrive - UCO\\Escritorio\\proyectos-poo\\Interface_Segregation\\Interface_Segregation\\Program.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Interface_Segregation\\Interface_Segregation\\Program.cs",
               "RelativeToolTip": "Interface_Segregation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T00:58:13.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T00:58:13.272Z"
             }
           ]
         }
