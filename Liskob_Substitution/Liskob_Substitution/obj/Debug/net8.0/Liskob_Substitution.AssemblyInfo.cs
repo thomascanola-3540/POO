@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Liskob_Substitution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3e0402c43cbe59df26aa8c7bbf117c564fe1efd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4ebd530ac9f5dd877e63b1f1f58715dc0ae76c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Liskob_Substitution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Liskob_Substitution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

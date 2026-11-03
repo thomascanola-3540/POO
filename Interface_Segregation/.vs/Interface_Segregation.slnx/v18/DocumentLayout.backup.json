@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Interface_Segregation\\DesarrolladorFullStack.cs",
               "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Interface_Segregation\\Interface_Segregation\\DesarrolladorFullStack.cs",
               "RelativeToolTip": "Interface_Segregation\\DesarrolladorFullStack.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-01T00:59:16.226Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Interface_Segregation\\Desarrollador.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T00:59:11.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T00:59:11.786Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Interface_Segregation\\IDisenador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T00:59:07.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T00:59:07.643Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Interface_Segregation\\IProgramador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T00:58:45.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T00:58:45.202Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Interface_Segregation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T00:58:13.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T00:58:13.272Z"
             }
           ]
         }

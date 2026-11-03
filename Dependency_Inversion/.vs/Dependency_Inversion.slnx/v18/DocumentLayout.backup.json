@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Dependency_Inversion\\ServicioReportes.cs",
               "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Dependency_Inversion\\Dependency_Inversion\\ServicioReportes.cs",
               "RelativeToolTip": "Dependency_Inversion\\ServicioReportes.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-01T01:57:29.809Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Dependency_Inversion\\LoggerArchivo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T01:29:02.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T01:29:02.74Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Dependency_Inversion\\LoggerConsola.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T01:28:57.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T01:28:57.771Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Dependency_Inversion\\Ilogger.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T01:28:53.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T01:28:53.933Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Dependency_Inversion\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T01:24:19.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T01:24:19.749Z"
             }
           ]
         }

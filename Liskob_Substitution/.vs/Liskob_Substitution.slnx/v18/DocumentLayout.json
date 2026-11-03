@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Liskob_Substitution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\liskob_substitution\\liskob_substitution\\aguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|solutionrelative:liskob_substitution\\aguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\liskob_substitution\\liskob_substitution\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|solutionrelative:liskob_substitution\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\liskob_substitution\\liskob_substitution\\aguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|solutionrelative:liskob_substitution\\aguila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6EC2119-0146-483D-CC17-4701988E47E0}|Liskob_Substitution\\Liskob_Substitution.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos-poo\\liskob_substitution\\liskob_substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,11 +50,12 @@
               "RelativeToolTip": "Liskob_Substitution\\Pato.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T00:53:12.784Z"
+              "WhenOpened": "2026-09-01T00:53:12.784Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Aguila.cs",
               "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Liskob_Substitution\\Liskob_Substitution\\Aguila.cs",
               "RelativeDocumentMoniker": "Liskob_Substitution\\Aguila.cs",
@@ -67,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Ave.cs",
               "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\Liskob_Substitution\\Liskob_Substitution\\Ave.cs",
               "RelativeDocumentMoniker": "Liskob_Substitution\\Ave.cs",
@@ -75,7 +76,8 @@
               "RelativeToolTip": "Liskob_Substitution\\Ave.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T00:50:23.694Z"
+              "WhenOpened": "2026-09-01T00:50:23.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -87,7 +89,8 @@
               "RelativeToolTip": "Liskob_Substitution\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T00:50:16.223Z"
+              "WhenOpened": "2026-09-01T00:50:16.223Z",
+              "EditorCaption": ""
             }
           ]
         }

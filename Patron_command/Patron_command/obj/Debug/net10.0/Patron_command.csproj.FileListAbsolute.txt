@@ -1,0 +1,16 @@
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\bin\Debug\net10.0\Patron_command.exe
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\bin\Debug\net10.0\Patron_command.deps.json
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\bin\Debug\net10.0\Patron_command.runtimeconfig.json
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\bin\Debug\net10.0\Patron_command.dll
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\bin\Debug\net10.0\Patron_command.pdb
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\obj\Debug\net10.0\Patron_command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\obj\Debug\net10.0\Patron_command.AssemblyInfoInputs.cache
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\obj\Debug\net10.0\Patron_command.AssemblyInfo.cs
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\obj\Debug\net10.0\Patron_command.csproj.CoreCompileInputs.cache
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\obj\Debug\net10.0\Patron_command.sourcelink.json
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\obj\Debug\net10.0\Patron_command.dll
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\obj\Debug\net10.0\refint\Patron_command.dll
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\obj\Debug\net10.0\Patron_command.pdb
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\obj\Debug\net10.0\Patron_command.genruntimeconfig.cache
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\obj\Debug\net10.0\ref\Patron_command.dll
+C:\Users\canol\OneDrive\Escritorio\Codigos-POO\Patron_command\Patron_command\obj\Debug\net10.0\Patron_c.93F103BF.Up2Date

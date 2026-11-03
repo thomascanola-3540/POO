@@ -1,0 +1,17 @@
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\bin\Debug\net10.0\Servicios.deps.json
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\bin\Debug\net10.0\Servicios.dll
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\bin\Debug\net10.0\Servicios.pdb
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\bin\Debug\net10.0\Datos.dll
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\bin\Debug\net10.0\Modelos.dll
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\bin\Debug\net10.0\Datos.pdb
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\bin\Debug\net10.0\Modelos.pdb
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\obj\Debug\net10.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\obj\Debug\net10.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\obj\Debug\net10.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\obj\Debug\net10.0\Servicios.AssemblyInfo.cs
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\obj\Debug\net10.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\obj\Debug\net10.0\Servicios.csproj.Up2Date
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\obj\Debug\net10.0\Servicios.dll
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\obj\Debug\net10.0\refint\Servicios.dll
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\obj\Debug\net10.0\Servicios.pdb
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\MiPrimeraAPI\Servicios\obj\Debug\net10.0\ref\Servicios.dll

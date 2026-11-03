@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Datos/Datos.csproj" Id="31e82f2c-a245-48d3-9482-e7490aec55f2" />
+  <Project Path="MiPrimeraAPI/MiPrimeraAPI.csproj" />
+  <Project Path="Modelos/Modelos.csproj" Id="00338c57-0da1-42d9-8473-9f9465bd7378" />
+  <Project Path="Servicios/Servicios.csproj" Id="f44e0f0a-4f0b-42a3-98db-a417df25a896" />
+</Solution>
