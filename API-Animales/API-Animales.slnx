@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="API-Animales/API.csproj" />
+  <Project Path="Datos/Datos.csproj" Id="658cb652-3682-4586-896e-7479cac3e513" />
+  <Project Path="Modelos/Modelos.csproj" Id="c9bf2b54-a165-489c-946b-6a3db9a43c8f" />
+  <Project Path="Servicios/Servicios.csproj" Id="4460ab1e-b05f-40ea-9625-c8d03bd261dc" />
+</Solution>

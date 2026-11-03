@@ -1,0 +1,15 @@
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\bin\Debug\net10.0\Datos.deps.json
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\bin\Debug\net10.0\Datos.dll
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\bin\Debug\net10.0\Datos.pdb
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\bin\Debug\net10.0\Modelos.dll
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\bin\Debug\net10.0\Modelos.pdb
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\obj\Debug\net10.0\Datos.csproj.AssemblyReference.cache
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\obj\Debug\net10.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\obj\Debug\net10.0\Datos.AssemblyInfoInputs.cache
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\obj\Debug\net10.0\Datos.AssemblyInfo.cs
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\obj\Debug\net10.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\obj\Debug\net10.0\Datos.csproj.Up2Date
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\obj\Debug\net10.0\Datos.dll
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\obj\Debug\net10.0\refint\Datos.dll
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\obj\Debug\net10.0\Datos.pdb
+C:\Users\canol\OneDrive\Escritorio\Codigos\POO\API-Animales\Datos\obj\Debug\net10.0\ref\Datos.dll

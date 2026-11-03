@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos\\POO\\API-Animales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6BDD01-BC41-BCCC-0BD2-040A0A80C637}|API-Animales\\API-Animales.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos\\poo\\api-animales\\api-animales\\controllers\\animalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6BDD01-BC41-BCCC-0BD2-040A0A80C637}|API-Animales\\API-Animales.csproj|solutionrelative:api-animales\\controllers\\animalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BF2B54-A165-489C-946B-6A3DB9A43C8F}|Modelos\\Modelos.csproj|c:\\users\\canol\\onedrive\\escritorio\\codigos\\poo\\api-animales\\modelos\\dtos\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BF2B54-A165-489C-946B-6A3DB9A43C8F}|Modelos\\Modelos.csproj|solutionrelative:modelos\\dtos\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos\\POO\\API-Animales\\Modelos\\DTOs\\AnimalDTO.cs",
+              "RelativeDocumentMoniker": "Modelos\\DTOs\\AnimalDTO.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos\\POO\\API-Animales\\Modelos\\DTOs\\AnimalDTO.cs",
+              "RelativeToolTip": "Modelos\\DTOs\\AnimalDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:41:56.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalesController.cs",
+              "DocumentMoniker": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos\\POO\\API-Animales\\API-Animales\\Controllers\\AnimalesController.cs",
+              "RelativeDocumentMoniker": "API-Animales\\Controllers\\AnimalesController.cs",
+              "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos\\POO\\API-Animales\\API-Animales\\Controllers\\AnimalesController.cs",
+              "RelativeToolTip": "API-Animales\\Controllers\\AnimalesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T23:12:25.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

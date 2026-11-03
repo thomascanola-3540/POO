@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "API_Animales.Controllers.AnimalesController",
+    "Method": "AddAnimal",
+    "RelativePath": "api/Animales/AgregarAnimal",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "animalDto",
+        "Type": "Modelos.DTOs.AnimalDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Animales.Controllers.AnimalesController",
+    "Method": "GetAnimales",
+    "RelativePath": "api/Animales/GetAnimales",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Animales.Controllers.AnimalesController",
+    "Method": "GetAnimalId",
+    "RelativePath": "api/Animales/GetAnimalesPorID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Animales.Controllers.AnimalesController",
+    "Method": "GetAnimalesNombre",
+    "RelativePath": "api/Animales/GetAnimalesPorNombre",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
