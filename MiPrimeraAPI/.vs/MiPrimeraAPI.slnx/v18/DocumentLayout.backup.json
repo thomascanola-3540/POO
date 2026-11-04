@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "MiPrimeraAPI\\Program.cs",
               "ToolTip": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos\\POO\\MiPrimeraAPI\\MiPrimeraAPI\\Program.cs",
               "RelativeToolTip": "MiPrimeraAPI\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T13:43:33.41Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "MiPrimeraAPI\\Controllers\\EmpleadoController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAA1wBUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T13:35:59.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T13:35:59.782Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "MiPrimeraAPI\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T13:19:59.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T13:19:59.262Z"
             }
           ]
         }

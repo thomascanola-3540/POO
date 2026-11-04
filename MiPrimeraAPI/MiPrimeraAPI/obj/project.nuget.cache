@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Tha7/xsZEQ=",
+  "dgSpecHash": "Fm6P5g4BWG8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos\\POO\\MiPrimeraAPI\\MiPrimeraAPI\\MiPrimeraAPI.csproj",
+  "projectFilePath": "C:\\Users\\canol\\OneDrive\\Escritorio\\Codigos-POO\\MiPrimeraAPI\\MiPrimeraAPI\\MiPrimeraAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\canol\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.14\\microsoft.aspnetcore.authentication.jwtbearer.10.0.14.nupkg.sha512",
     "C:\\Users\\canol\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
